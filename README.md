@@ -20,13 +20,6 @@ As partículas podem ser aceleradas de maneiras diferentes, conforme definido no
 
 A saída do teste mostrará se a função está produzindo os resultados esperados.
 
-5. Você também pode executar o exemplo de uso da função `cyclotron` no arquivo `main.py`. Use o seguinte comando:
-
- `python3 cyclotron.py`
-
-
-Isso executará o exemplo e mostrará a saída no terminal.
-
 ## Detalhes da Implementação
 
 A função `cyclotron` foi implementada no arquivo `cyclotron.py`. Ela segue uma abordagem baseada em condicionais para lidar com as diferentes partículas e seus padrões de aceleração. A função utiliza uma matriz para representar o estado do ciclotron, preenchendo as células conforme as especificações do desafio.
