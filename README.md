@@ -18,7 +18,7 @@ As partículas podem ser aceleradas de maneiras diferentes, conforme definido no
 
 4. Execute o arquivo de teste `test_cyclotron.py` para verificar se a função `cyclotron` está funcionando corretamente. Use o seguinte comando:
 
-python3 -m unittest test_cyclotron.py
+´python3 -m unittest test_cyclotron.py´
 
 
 A saída do teste mostrará se a função está produzindo os resultados esperados.
