@@ -25,7 +25,7 @@ A saída do teste mostrará se a função está produzindo os resultados esperad
 
 5. Você também pode executar o exemplo de uso da função `cyclotron` no arquivo `main.py`. Use o seguinte comando:
 
-python3 main.py
+python3 cyclotron.py
 
 
 Isso executará o exemplo e mostrará a saída no terminal.
